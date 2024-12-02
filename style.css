@@ -1,0 +1,53 @@
+.hero {
+    background-image: url("furniture.webp");
+    background-size: cover;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  .btn {
+    color: #066d4b;
+    background-color: white;
+    border: white;
+  }
+  a {
+    color: black;
+  }
+
+  .about-us {
+    background-color: #f7f7f7;
+    padding: 60px;
+  }
+  .carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+  }
+
+  .subscribe {
+    background-color: #066d4b;
+    padding: 30px;
+    text-align: center;
+    color: white;
+  }
+  .subscribe input {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+  }
+  .circle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px; 
+    border-radius: 50%;
+    background-color:#066d4b;
+    margin: 0 auto;
+    margin-bottom: 10px; 
+  }
+
+  .footer {
+    background-color: white;
+    color: black;
+    padding: 20px;
+  }
